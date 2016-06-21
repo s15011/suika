@@ -1,2 +1,2 @@
 # suika
-test
+git練習用
